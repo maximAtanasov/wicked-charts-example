@@ -26,7 +26,7 @@ dependencies {
     compile group: 'org.apache.wicket', name: 'wicket-core', version: "${wicket_spring_version}"
     compile(
             [group: 'org.apache.wicket', name: 'wicket-spring', version: "${wicket_spring_version}"],
-            [group: 'de.adesso.wicked-charts', name: 'wicked-charts-wicket8', version: "${wicketcharts_version}"],
+            [group: 'de.adesso.wicked-charts', name: 'wicked-charts-wicket7', version: "${wicketcharts_version}"],
     )
     compile(
             [group: 'org.springframework.boot', name: 'spring-boot-starter-web', version: "${spring_boot_version}"],
