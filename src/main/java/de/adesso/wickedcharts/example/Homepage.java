@@ -6,7 +6,7 @@ import de.adesso.wickedcharts.chartjs.chartoptions.colors.RgbaColor;
 import de.adesso.wickedcharts.chartjs.chartoptions.colors.SimpleColor;
 import de.adesso.wickedcharts.chartjs.chartoptions.label.TextLabel;
 import de.adesso.wickedcharts.chartjs.chartoptions.valueType.IntegerValue;
-import de.adesso.wickedcharts.wicket7.chartjs.Chart;
+import de.adesso.wickedcharts.wicket6.chartjs.Chart;
 import org.apache.wicket.markup.html.WebPage;
 import org.apache.wicket.request.mapper.parameter.PageParameters;
 
